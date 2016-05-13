@@ -1,0 +1,20 @@
+{
+  "name": "hover-preview",
+  "main": "./lib/hover-preview",
+  "version": "0.0.0",
+  "description": "Shows a preview when the mouse is hovered over a color, gradiant, or image filename.  A port from 'Hover Preview' Bracket's extension from @Gruehle.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "hover-preview:toggle"
+  },
+  "repository": "https://github.com/AsherPeruscini/hover-preview.git",
+  "bugs": "https://github.com/AsherPeruscini/hover-preview/issues",
+  "homepage": "https://github.com/AsherPeruscini/hover-preview",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hover-preview",
+        "command": "hover-preview:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hover-preview",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hover-preview:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
