@@ -15,6 +15,15 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [
+
+    ],
+    "extensions": {
+      ".js": [
+        "node_modules/filewalker/examples/du.js",
+      ],
+    },
   }
 }
